@@ -1,0 +1,7 @@
+server:
+  port: 1317
+
+bitburner:
+  websocket:
+    text-buffer-size: 1048576
+    binary-buffer-size: 1048576
